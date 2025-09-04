@@ -1,7 +1,3 @@
-Here’s a **short and clear README.md** you can drop into your repo:
-
----
-
 # LCEL Chaining Demo (LangChain + Gemini)
 
 This project shows how to build and run **LangChain Expression Language (LCEL)** chains with Google’s Gemini LLM.
