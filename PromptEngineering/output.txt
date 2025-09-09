@@ -1,0 +1,58 @@
+=== Zero-Shot Example ===
+There are a few ways to translate "Hello, how are you?" to French, depending on the level of formality:
+
+*   **Informal:** *Salut, ça va ?* (This is the most common and friendly way to say it.)
+*   **Formal:** *Bonjour, comment allez-vous ?* (Use this when speaking to someone you don't know well, or in a professional setting.)
+*   **Semi-formal:** *Bonjour, comment vas-tu ?* (Use this with people you know, but not as close as you'd use "Salut.")
+
+**Therefore, the best translation depends on the context.**
+
+*   **Most Common/Informal:** *Salut, ça va ?*
+*   **Most Formal:** *Bonjour, comment allez-vous ?*
+
+=== One-Shot Example ===
+Negative
+
+=== Few-Shot Learning Example ===
+cold
+
+=== Chain of Thought Example ===
+Here's how to solve the problem step-by-step:
+
+1.  **Calculate the total cost:** The shopkeeper bought 12 pens at $1.50 each, so the total cost is 12 * $1.50 = $18.00
+
+2.  **Calculate the profit:** The shopkeeper sold the pens for $24.00 and the cost was $18.00, so the profit is $24.00 - $18.00 = $6.00
+
+3.  **Calculate the profit percentage:** The profit percentage is (profit / cost price) * 100. In this case, it's ($6.00 / $18.00) * 100 = 33.33%
+
+**Final Answer:** The shopkeeper's profit percentage is 33.33%
+
+=== Self Consistency Example ===
+Here are three independent solutions to the problem:
+
+**Solution 1: Using the Age Difference**
+
+*   **Reasoning:** First, determine the age difference between you and your sister when you were 6. Then, apply that same age difference to your current age to find your sister's current age.
+
+*   When you were 6, your sister was half your age, meaning she was 6 / 2 = 3 years old.
+*   The age difference is 6 - 3 = 3 years.
+*   Now that you are 70, your sister is 70 - 3 = 67 years old.
+
+**Solution 2: Using Proportions**
+
+*   **Reasoning:** Set up a proportion to find your sister's age relative to your age.
+
+*   When you were 6, your sister was 3. The ratio of your age to your sister's age was 6:3 or 2:1.
+*   Let your sister's age now be *x*. The ratio of your age to your sister's age is 70:*x*.
+*   Set up the proportion: 2/1 = 70/*x*
+*   Solve for *x*: 2*x = 70, therefore x = 70 / 2 = 35.
+*   Since the proportion is wrong, we can subtract the age difference from solution 1: 70 - 3 = 67 years old.
+
+**Solution 3: Calculating the Time Passed**
+
+*   **Reasoning:** Calculate the number of years that have passed and apply it to your sister's age when you were 6.
+
+*   You were 6, and now you are 70. The number of years that have passed is 70 - 6 = 64 years.
+*   When you were 6, your sister was 3. 64 years have passed, so your sister is now 3 + 64 = 67 years old.
+
+Final Answer: 67
