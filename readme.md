@@ -33,6 +33,13 @@ Build **Retrieval-Augmented Generation (RAG)** applications that combine externa
 
 ---
 
+### [ToolCallingAgent](./ToolCallingAgent/)
+
+An interactive example showing how to build a **tool-using AI assistant** with LangChain.  
+Demonstrates real-time data retrieval using external tools (e.g., weather, time) via `create_tool_calling_agent` and `AgentExecutor`.
+
+---
+
 *This cookbook will continue to grow with new folders and examples as I explore more GenAI concepts and patterns.*
 
 ---

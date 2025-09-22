@@ -76,7 +76,3 @@ This project covers five essential techniques:
 * **Few-Shot** → Teach patterns through examples.
 * **Chain-of-Thought** → Better reasoning and fewer mistakes.
 * **Self-Consistency** → Higher reliability through multiple solutions.
-
----
-
-written by ChatGPT

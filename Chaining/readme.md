@@ -48,7 +48,3 @@ We explore two main styles of chaining:
 
 * **Sequence = assembly line** (linear, dependent steps).
 * **Parallel = fork** (independent, simultaneous branches).
-
----
-
-written by ChatGPT

@@ -92,7 +92,3 @@ Chroma uses structures like **HNSW (Hierarchical Navigable Small World graphs)**
 
 * Instead of comparing a query vector to every stored embedding, HNSW speeds up retrieval by navigating a graph of vectors.
 * This makes retrieval fast, even with thousands or millions of embeddings.
-
----
-
-written by ChatGPT
