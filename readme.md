@@ -31,8 +31,6 @@ Build **Retrieval-Augmented Generation (RAG)** applications that combine externa
 * **Retrieval** → Query vector store to fetch top-k relevant chunks (using cosine similarity, dot product, etc.)
 * **Question Answering** → Use LangChain’s `RetrievalQA` chain
 
----
-
 ### [ToolCallingAgent](./ToolCallingAgent/)
 
 An interactive example showing how to build a **tool-using AI assistant** with LangChain.  
